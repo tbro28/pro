@@ -1,0 +1,4 @@
+User-agent: *
+Allow: /
+
+Sitemap: https://tbro28.github.io/pro/sitemap.xml
